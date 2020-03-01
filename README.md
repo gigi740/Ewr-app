@@ -1,1 +1,3 @@
-# Ewr-app
+# maven-project
+
+Simple Maven Project
